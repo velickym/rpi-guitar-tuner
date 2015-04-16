@@ -1,6 +1,7 @@
 # Raspberry Pi guitar tuner
 
 Demo of the tuner: https://www.youtube.com/watch?v=oB4F5VhzQf8
+
 Picture of the tuner: https://www.dropbox.com/s/h03jlktlyf0ajyi/guitar_tuner.jpg
 
 GPIOs in the code are specifically programmed according to the picture above.
